@@ -1,0 +1,11 @@
+b532d15cf694646663f88c23a0c4ea4f *DESCRIPTION
+9fdfeb11f7ddba6f3aab9aaa6b1ac5dd *NAMESPACE
+9dd55209a35224b5d0301689c71e182f *R/block.gibbs.R
+a4c1c3d23761f40e1bc570077bb60b57 *R/part.R
+f81a9376ea2c4a1f3a1d51de0e64d494 *R/partition.R
+fbc5f06f42bf4a4843ee236b8317ac10 *R/rdirichlet.R
+ef7a6b9451157f3d734205a7c107db28 *man/BGSIMD-package.Rd
+9dec36aaab1772fb9b7d086bf1cb18a2 *man/block.gibbs.Rd
+f1772ea005cd0a64b1139f328d099a92 *man/part.Rd
+7d556afca2b4e816d299eda1013c5e27 *man/partition.Rd
+86433080996ad3b8d47060a8caf0b31a *man/rdirichlet.Rd
